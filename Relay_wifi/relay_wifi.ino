@@ -11,9 +11,9 @@
 
 const char* ssid = "L.Connected";
 const char* password = "connected";
-IPAddress arduino_ip ( 192,  168,  1,  207);
-IPAddress dns_ip     (  8,  8,   8,   8);
-IPAddress gateway_ip ( 192,  168,   1,   1);
+IPAddress arduino_ip ( 192,  168, x, xxx);
+IPAddress dns_ip     (  xx,xx,x,x);
+IPAddress gateway_ip ( xx,xxx,xxxx);
 
 IPAddress subnet_mask(255, 255, 255,   0);
 
